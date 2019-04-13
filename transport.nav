@@ -1,0 +1,86 @@
+\headcommand {\slideentry {0}{0}{1}{1/1}{}{0}}
+\headcommand {\beamer@framepages {1}{1}}
+\headcommand {\slideentry {0}{0}{2}{2/2}{}{0}}
+\headcommand {\beamer@framepages {2}{2}}
+\headcommand {\slideentry {0}{0}{2}{2/3}{}{0}}
+\headcommand {\beamer@framepages {2}{3}}
+\headcommand {\slideentry {0}{0}{3}{4/6}{}{0}}
+\headcommand {\beamer@framepages {4}{6}}
+\headcommand {\sectionentry {1}{Boltzmann equation}{7}{Boltzmann equation}{0}}
+\headcommand {\beamer@sectionpages {1}{6}}
+\headcommand {\beamer@subsectionpages {1}{6}}
+\headcommand {\beamer@subsectionentry {0}{1}{1}{7}{What is $f (\mathaccentV {vec}17E{r},\mathaccentV {vec}17E{k},t)$}}\headcommand {\beamer@subsectionpages {7}{6}}
+\headcommand {\slideentry {1}{1}{1}{7/9}{What is $f (\mathaccentV {vec}17E{r},\mathaccentV {vec}17E{k},t)$}{0}}
+\headcommand {\beamer@framepages {7}{9}}
+\headcommand {\beamer@subsectionentry {0}{1}{2}{10}{Changing $f (\mathaccentV {vec}17E{r},\mathaccentV {vec}17E{k},t)$ with time}}\headcommand {\beamer@subsectionpages {7}{9}}
+\headcommand {\slideentry {1}{2}{1}{10/15}{Changing $f (\mathaccentV {vec}17E{r},\mathaccentV {vec}17E{k},t)$ with time}{0}}
+\headcommand {\beamer@framepages {10}{15}}
+\headcommand {\slideentry {1}{2}{2}{16/21}{Changing $f (\mathaccentV {vec}17E{r},\mathaccentV {vec}17E{k},t)$ with time}{0}}
+\headcommand {\beamer@framepages {16}{21}}
+\headcommand {\slideentry {1}{2}{3}{22/25}{Changing $f (\mathaccentV {vec}17E{r},\mathaccentV {vec}17E{k},t)$ with time}{0}}
+\headcommand {\beamer@framepages {22}{25}}
+\headcommand {\beamer@subsectionentry {0}{1}{3}{26}{Boltzmann equation}}\headcommand {\beamer@subsectionpages {10}{25}}
+\headcommand {\slideentry {1}{3}{1}{26/27}{Boltzmann equation}{0}}
+\headcommand {\beamer@framepages {26}{27}}
+\headcommand {\beamer@subsectionentry {0}{1}{4}{28}{What is $g (\mathaccentV {vec}17E{r},\mathaccentV {vec}17E{k},t)$}}\headcommand {\beamer@subsectionpages {26}{27}}
+\headcommand {\slideentry {1}{4}{1}{28/32}{What is $g (\mathaccentV {vec}17E{r},\mathaccentV {vec}17E{k},t)$}{0}}
+\headcommand {\beamer@framepages {28}{32}}
+\headcommand {\beamer@subsectionentry {0}{1}{5}{33}{Velocity of an electron!}}\headcommand {\beamer@subsectionpages {28}{32}}
+\headcommand {\slideentry {1}{5}{1}{33/36}{Velocity of an electron!}{0}}
+\headcommand {\beamer@framepages {33}{36}}
+\headcommand {\slideentry {1}{5}{2}{37/37}{Velocity of an electron!}{0}}
+\headcommand {\beamer@framepages {37}{37}}
+\headcommand {\sectionentry {2}{Electrical conductivity}{38}{Electrical conductivity}{0}}
+\headcommand {\beamer@sectionpages {7}{37}}
+\headcommand {\beamer@subsectionpages {33}{37}}
+\headcommand {\beamer@subsectionentry {0}{2}{1}{38}{Boltzmann equation}}\headcommand {\beamer@subsectionpages {38}{37}}
+\headcommand {\slideentry {2}{1}{1}{38/42}{Boltzmann equation}{0}}
+\headcommand {\beamer@framepages {38}{42}}
+\headcommand {\beamer@subsectionentry {0}{2}{2}{43}{Current density}}\headcommand {\beamer@subsectionpages {38}{42}}
+\headcommand {\slideentry {2}{2}{1}{43/47}{Current density}{0}}
+\headcommand {\beamer@framepages {43}{47}}
+\headcommand {\beamer@subsectionentry {0}{2}{3}{48}{Conducting scalar I}}\headcommand {\beamer@subsectionpages {43}{47}}
+\headcommand {\slideentry {2}{3}{1}{48/51}{Conducting scalar I}{0}}
+\headcommand {\beamer@framepages {48}{51}}
+\headcommand {\beamer@subsectionentry {0}{2}{4}{52}{Conducting scalar II}}\headcommand {\beamer@subsectionpages {48}{51}}
+\headcommand {\slideentry {2}{4}{1}{52/57}{Conducting scalar II}{0}}
+\headcommand {\beamer@framepages {52}{57}}
+\headcommand {\sectionentry {3}{General Transport equation}{58}{General Transport equation}{0}}
+\headcommand {\beamer@sectionpages {38}{57}}
+\headcommand {\beamer@subsectionpages {52}{57}}
+\headcommand {\beamer@subsectionentry {0}{3}{1}{58}{Boltzmann equation}}\headcommand {\beamer@subsectionpages {58}{57}}
+\headcommand {\slideentry {3}{1}{1}{58/60}{Boltzmann equation}{0}}
+\headcommand {\beamer@framepages {58}{60}}
+\headcommand {\beamer@subsectionentry {0}{3}{2}{61}{Heat}}\headcommand {\beamer@subsectionpages {58}{60}}
+\headcommand {\slideentry {3}{2}{1}{61/62}{Heat}{0}}
+\headcommand {\beamer@framepages {61}{62}}
+\headcommand {\beamer@subsectionentry {0}{3}{3}{63}{General Transport equation}}\headcommand {\beamer@subsectionpages {61}{62}}
+\headcommand {\slideentry {3}{3}{1}{63/65}{General Transport equation}{0}}
+\headcommand {\beamer@framepages {63}{65}}
+\headcommand {\beamer@subsectionentry {0}{3}{4}{66}{Thermal conductivity}}\headcommand {\beamer@subsectionpages {63}{65}}
+\headcommand {\slideentry {3}{4}{1}{66/69}{Thermal conductivity}{0}}
+\headcommand {\beamer@framepages {66}{69}}
+\headcommand {\slideentry {3}{4}{2}{70/73}{Thermal conductivity}{0}}
+\headcommand {\beamer@framepages {70}{73}}
+\headcommand {\beamer@subsectionentry {0}{3}{5}{74}{Compair Electrical and Thermal conduction}}\headcommand {\beamer@subsectionpages {66}{73}}
+\headcommand {\slideentry {3}{5}{1}{74/74}{Compair Electrical and Thermal conduction}{0}}
+\headcommand {\beamer@framepages {74}{74}}
+\headcommand {\sectionentry {4}{Thermo-electric effects}{75}{Thermo-electric effects}{0}}
+\headcommand {\beamer@sectionpages {58}{74}}
+\headcommand {\beamer@subsectionpages {74}{74}}
+\headcommand {\beamer@subsectionentry {0}{4}{1}{75}{Seebeck effect}}\headcommand {\beamer@subsectionpages {75}{74}}
+\headcommand {\slideentry {4}{1}{1}{75/78}{Seebeck effect}{0}}
+\headcommand {\beamer@framepages {75}{78}}
+\headcommand {\beamer@subsectionentry {0}{4}{2}{79}{Peltier effect}}\headcommand {\beamer@subsectionpages {75}{78}}
+\headcommand {\slideentry {4}{2}{1}{79/80}{Peltier effect}{0}}
+\headcommand {\beamer@framepages {79}{80}}
+\headcommand {\sectionentry {5}{references}{81}{references}{0}}
+\headcommand {\beamer@sectionpages {75}{80}}
+\headcommand {\beamer@subsectionpages {79}{80}}
+\headcommand {\slideentry {5}{0}{1}{81/81}{}{0}}
+\headcommand {\beamer@framepages {81}{81}}
+\headcommand {\beamer@partpages {1}{81}}
+\headcommand {\beamer@subsectionpages {81}{81}}
+\headcommand {\beamer@sectionpages {81}{81}}
+\headcommand {\beamer@documentpages {81}}
+\headcommand {\def \inserttotalframenumber {25}}

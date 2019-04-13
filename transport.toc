@@ -1,0 +1,21 @@
+\beamer@sectionintoc {1}{Boltzmann equation}{7}{0}{1}
+\beamer@subsectionintoc {1}{1}{What is $f (\mathaccentV {vec}17E{r},\mathaccentV {vec}17E{k},t)$}{7}{0}{1}
+\beamer@subsectionintoc {1}{2}{Changing $f (\mathaccentV {vec}17E{r},\mathaccentV {vec}17E{k},t)$ with time}{10}{0}{1}
+\beamer@subsectionintoc {1}{3}{Boltzmann equation}{26}{0}{1}
+\beamer@subsectionintoc {1}{4}{What is $g (\mathaccentV {vec}17E{r},\mathaccentV {vec}17E{k},t)$}{28}{0}{1}
+\beamer@subsectionintoc {1}{5}{Velocity of an electron!}{33}{0}{1}
+\beamer@sectionintoc {2}{Electrical conductivity}{38}{0}{2}
+\beamer@subsectionintoc {2}{1}{Boltzmann equation}{38}{0}{2}
+\beamer@subsectionintoc {2}{2}{Current density}{43}{0}{2}
+\beamer@subsectionintoc {2}{3}{Conducting scalar I}{48}{0}{2}
+\beamer@subsectionintoc {2}{4}{Conducting scalar II}{52}{0}{2}
+\beamer@sectionintoc {3}{General Transport equation}{58}{0}{3}
+\beamer@subsectionintoc {3}{1}{Boltzmann equation}{58}{0}{3}
+\beamer@subsectionintoc {3}{2}{Heat}{61}{0}{3}
+\beamer@subsectionintoc {3}{3}{General Transport equation}{63}{0}{3}
+\beamer@subsectionintoc {3}{4}{Thermal conductivity}{66}{0}{3}
+\beamer@subsectionintoc {3}{5}{Compair Electrical and Thermal conduction}{74}{0}{3}
+\beamer@sectionintoc {4}{Thermo-electric effects}{75}{0}{4}
+\beamer@subsectionintoc {4}{1}{Seebeck effect}{75}{0}{4}
+\beamer@subsectionintoc {4}{2}{Peltier effect}{79}{0}{4}
+\beamer@sectionintoc {5}{references}{81}{0}{5}
