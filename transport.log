@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2019.3.25)  13 APR 2019 16:55
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2019.3.25)  14 APR 2019 17:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1562,23 +1562,11 @@ Overfull \vbox (8.00294pt too high) detected at line 289
 
 ] [62
 
-]
-Overfull \vbox (10.26044pt too high) detected at line 337
- []
+] [63
 
-[63
+] [64
 
-]
-Overfull \vbox (10.26044pt too high) detected at line 337
- []
-
-[64
-
-]
-Overfull \vbox (10.26044pt too high) detected at line 337
- []
-
-[65
+] [65
 
 ] [66
 
@@ -1592,7 +1580,8 @@ Overfull \vbox (10.26044pt too high) detected at line 337
 
 ] [71
 
-] [72
+]
+[72
 
 ] [73
 
@@ -1637,10 +1626,10 @@ Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 465.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 465.
  ) 
 Here is how much of TeX's memory you used:
- 32289 strings out of 493005
- 653876 string characters out of 6134596
- 731238 words of memory out of 5000000
- 35708 multiletter control sequences out of 15000+600000
+ 32290 strings out of 493005
+ 653893 string characters out of 6134596
+ 732294 words of memory out of 5000000
+ 35709 multiletter control sequences out of 15000+600000
  12036 words of font info for 65 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  56i,22n,66p,10379b,680s stack positions out of 5000i,500n,10000p,200000b,80000s

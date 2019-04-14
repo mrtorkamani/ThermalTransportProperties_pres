@@ -229,7 +229,7 @@ g(t) = g(0)e^{- \dfrac{t}{\tau}}
 \frametitle{Current density}
 \pause
 \begin{align*}
-\vec{J} = 2 \int e v_k f (\vec{r},\vec{k},t) dk
+\vec{J} = 2 \int e v_k f (\vec{r},\vec{k},t) d^3k
 \end{align*}
 \pause
 \begin{align*}
@@ -313,7 +313,7 @@ suppose now that we have a temperature gradient in the specimen as well as an el
 \item the total flux of heat (per unit volume) is:
 \end{itemize}
 \begin{align*}
-U = 2 \int f (\varepsilon - \zeta) v_k dk
+\vec{U} = 2 \int  (\varepsilon - \zeta)f(\vec{r},\vec{k},t) v_k d^3k
 \end{align*}
 \end{frame}
 %%%%%%%%%%%%%
@@ -321,18 +321,18 @@ U = 2 \int f (\varepsilon - \zeta) v_k dk
 \begin{frame}
 \frametitle{General Transport equation}
 \begin{align*}
-\vec{J} &= e^2 \vec{K_0}.\vec{E} +\dfrac{e}{T} \vec{K_1} . (- \nabla T)\\
-\vec{U} &= e \vec{K_1}.\vec{E} +\dfrac{1}{T} \vec{K_2} . (- \nabla T)
+\vec{J} &= e^2 \overleftrightarrow{K_0}.\vec{E} +\dfrac{e}{T} \overleftrightarrow{K_1} . (- \nabla T)\\
+\vec{U} &= e \overleftrightarrow{K_1}.\vec{E} +\dfrac{1}{T} \overleftrightarrow{K_2} . (- \nabla T)
 \end{align*}
 \pause
 \begin{align*}
-k_n \equiv \dfrac{1}{4 \pi ^3} \dfrac{\tau}{\hslash} \int \int \vec{v} \vec{v} (\varepsilon - \zeta)^n (- \dfrac{\partial f^0}{\partial \varepsilon}) \dfrac{ds}{v} d\varepsilon
+\overleftrightarrow{k_n} \equiv \dfrac{1}{4 \pi ^3} \dfrac{\tau}{\hslash} \int \int \vec{v} \vec{v} (\varepsilon - \zeta)^n (- \dfrac{\partial f^0}{\partial \varepsilon}) \dfrac{ds}{v} d\varepsilon
 \end{align*}
 \pause
 \begin{align*}
-K_0 &= \dfrac{\tau}{4\pi^3 \hslash} \int \vec{v}\vec{v} \dfrac{ds_f}{v}\\
-K_2 &= \dfrac{1}{3}\pi^2 (kT)^2 K_0 (\zeta)\\
-K_1 &= \dfrac{1}{3}\pi^2 (kT)^2 \dfrac{\partial}{\partial \varepsilon} K_0 (\varepsilon) \big| _{\varepsilon = \zeta} 
+\overleftrightarrow{K_0} &= \dfrac{\tau}{4\pi^3 \hslash} \int \vec{v}\vec{v} \dfrac{ds_f}{v} \quad
+\overleftrightarrow{K_2} = \dfrac{1}{3}\pi^2 (kT)^2 K_0 (\zeta)\\
+\overleftrightarrow{K_1} &= \dfrac{1}{3}\pi^2 (kT)^2 \dfrac{\partial}{\partial \varepsilon} K_0 (\varepsilon) \big| _{\varepsilon = \zeta} 
 \end{align*}
 \end{frame}
 %%%%%%%%%%%%%
@@ -414,11 +414,11 @@ in open circuit with thermal gradient we have:
 \node [right] at (2,0) {$x_c$};
 \node [right] at (6,0) {$T_h$};
 \node [left] at (6,0) {$x_h$};
-\node [above] at (4,2) {A};
+\node [above] at (5.5,1.5) {A};
 \node [above] at (4,-2) {$T_0$};
 \node [below] at (4,-2) {$x_0$};
-\node at (3,-1) {B};
-\node at (5,-1) {B};
+\node at (2,-1.5) {B};
+\node at (6,-1.5) {B};
 \end{tikzpicture}
 \end{figure}
 \pause
@@ -443,11 +443,11 @@ suppose we keep $\nabla T = 0$ round the same circuit
 \draw [green,ultra thick] (6,0) arc [radius=2, start angle=0, end angle= 180];
 \draw [<-,red] (5.8,0) arc [radius=1.8, start angle=0, end angle= 240];
 \draw [gray,ultra thick] (2,0) arc [radius=2, start angle=180, end angle= 265];
-\node [right] at (-1.7,0) {$\vec{J} (\Pi_A -\Pi_B) \Rightarrow$};
-\node [left] at (9.7,0) {$\Rightarrow \vec{J} (\Pi_A -\Pi_B)$};
+\node [right] at (-2,0) {$\vec{J} (\Pi_A -\Pi_B) \Rightarrow$};
+\node [left] at (10,0) {$\Rightarrow \vec{J} (\Pi_A -\Pi_B)$};
 \node [above] at (4,2) {$\Pi_A \vec{J}$};
-\node at (3,-1) {$\Pi_B \vec{J}$};
-\node at (5,-1) {$\Pi_B \vec{J}$};
+\node at (2,-1.8) {$\Pi_B \vec{J}$};
+\node at (6,-1.8) {$\Pi_B \vec{J}$};
 \node [below] at (4,-2) {$\Delta V$};
 \node at (3,1) {$J$};
 \end{tikzpicture}
