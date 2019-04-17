@@ -1,3 +1,4 @@
+\beamer@endinputifotherversion {3.36pt}
 \beamer@sectionintoc {1}{Boltzmann equation}{7}{0}{1}
 \beamer@subsectionintoc {1}{1}{What is $f (\mathaccentV {vec}17E{r},\mathaccentV {vec}17E{k},t)$}{7}{0}{1}
 \beamer@subsectionintoc {1}{2}{Changing $f (\mathaccentV {vec}17E{r},\mathaccentV {vec}17E{k},t)$ with time}{10}{0}{1}

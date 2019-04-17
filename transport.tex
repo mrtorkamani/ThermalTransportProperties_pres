@@ -5,7 +5,7 @@
 \usefonttheme{serif} % default family is serif
 \usepackage{fontspec}
 \setmainfont{Liberation Serif}
-
+\usepackage{datetime}
 \usepackage{amsfonts}
 \usepackage{amssymb}
 \usepackage{amsmath}
@@ -19,7 +19,9 @@
 \title{Boltzmann equation \& transport properties}
 \author{MR Torkamani \& M Afkani}
 \institute{Kharazmi university}
-\date{Spring 2019}
+\newdateformat{monthyeardate}{%
+  \monthname[\THEMONTH], \THEYEAR}
+\date{\monthyeardate\today}
 
 \begin{document}
 \begin{frame}
